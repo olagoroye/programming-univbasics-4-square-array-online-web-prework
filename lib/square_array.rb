@@ -6,5 +6,5 @@ new_array = []
     counter += 1
     
   end
-  square_array(new_array)
+  return square_array(new_array)
 end
