@@ -5,5 +5,5 @@ new_arr = []
     new_array << (array[counter] ** 2)
     counter += 1
   end
-  return new_arrary
+  return new_arr
 end
